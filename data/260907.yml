@@ -5,7 +5,7 @@ about:
   head: dce1a72
   archived: false
   latestVersion: "v0.19.12"
-  collectedAt: 2026-09-07T05:26:23Z
+  collectedAt: 2026-09-07T18:59:17Z
 timeline:
   created: 2021-03-01
   lastCommit: 2026-06-28
@@ -82,7 +82,7 @@ total:
   commit: 555
 ---
 path: /home/runner/.x-repo/github.com/natesales/q
-collectedAt: 2026-09-07T05:26:24Z
+collectedAt: 2026-09-07T18:59:18Z
 loc:
   Go:
     code: 3728
@@ -226,7 +226,7 @@ checks:
       - 'Warn: 0 commits out of 20 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:24+00:00
+  collectedAt: 2026-09-07T18:59:18+00:00
   platform:
     darwin/arm64:
       name:  q_0.19.12_darwin_arm64.tar.gz
