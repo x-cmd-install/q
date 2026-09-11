@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.19.12"
   latestRelease: "v0.19.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:47:30Z
+  collectedAt: 2026-09-11T19:09:25Z
 timeline:
   created: 2021-03-01
   lastCommit: 2026-06-28
@@ -86,7 +86,7 @@ total:
   commit: 555
 ---
 path: /home/runner/.x-repo/github.com/natesales/q
-collectedAt: 2026-09-11T05:47:31Z
+collectedAt: 2026-09-11T19:09:28Z
 loc:
   Go:
     code: 3728
