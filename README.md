@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 49 · **Open PRs**: 5 · **Closed issues**: 96 · **Open issues**: 16 · **Commits**: 577
+- **Releases**: 58 · **Merged PRs**: 49 · **Open PRs**: 7 · **Closed issues**: 96 · **Open issues**: 16 · **Commits**: 577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 14 | 2 | 0 | 0 | 19 |
-| last60d | 2026-09-09 | 0 | 14 | 2 | 0 | 0 | 19 |
-| 90d | 2026-08-10 | 0 | 14 | 3 | 0 | 0 | 19 |
-| last180d | 2026-05-12 | 0 | 15 | 4 | 2 | 1 | 20 |
-| 360d | 2025-11-13 | 1 | 22 | 5 | 12 | 4 | 32 |
-| last720d | 2024-11-18 | 5 | 34 | 5 | 21 | 7 | 107 |
+| 30d | 2026-10-10 | 0 | 14 | 4 | 0 | 0 | 19 |
+| last60d | 2026-09-10 | 0 | 14 | 4 | 0 | 0 | 19 |
+| 90d | 2026-08-11 | 0 | 14 | 5 | 0 | 0 | 19 |
+| last180d | 2026-05-13 | 0 | 15 | 6 | 2 | 1 | 20 |
+| 360d | 2025-11-14 | 1 | 22 | 7 | 12 | 4 | 32 |
+| last720d | 2024-11-19 | 5 | 34 | 7 | 21 | 7 | 107 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for q lives in the [x-cmd/install](https://github.com/x-cmd/ins
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:52:42Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T07:17:35Z._
