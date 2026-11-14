@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,550 · **Forks**: 103 · **Open issues**: 112 · **Contributors**: 24
+- **Stars**: 2,552 · **Forks**: 103 · **Open issues**: 112 · **Contributors**: 24
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 51 · **Open PRs**: 5 · **Closed issues**: 98 · **Open issues**: 14 · **Commits**: 581
+- **Releases**: 58 · **Merged PRs**: 51 · **Open PRs**: 6 · **Closed issues**: 98 · **Open issues**: 14 · **Commits**: 581
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 16 | 1 | 0 | 0 | 23 |
-| last60d | 2026-09-14 | 0 | 16 | 2 | 0 | 0 | 23 |
-| 90d | 2026-08-15 | 0 | 16 | 3 | 0 | 0 | 23 |
-| last180d | 2026-05-17 | 0 | 17 | 4 | 2 | 1 | 24 |
-| 360d | 2025-11-18 | 1 | 24 | 5 | 14 | 2 | 36 |
-| last720d | 2024-11-23 | 5 | 36 | 5 | 23 | 5 | 111 |
+| 30d | 2026-10-15 | 0 | 16 | 2 | 0 | 0 | 23 |
+| last60d | 2026-09-15 | 0 | 16 | 3 | 0 | 0 | 23 |
+| 90d | 2026-08-16 | 0 | 16 | 4 | 0 | 0 | 23 |
+| last180d | 2026-05-18 | 0 | 17 | 5 | 2 | 1 | 24 |
+| 360d | 2025-11-19 | 1 | 24 | 6 | 14 | 2 | 36 |
+| last720d | 2024-11-24 | 5 | 36 | 6 | 23 | 5 | 111 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for q lives in the [x-cmd/install](https://github.com/x-cmd/ins
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:45:07Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:35:28Z._
