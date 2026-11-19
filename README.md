@@ -14,11 +14,11 @@ x install q
 
 ## Code insight
 
-Total: **4,247** lines of code across **40** files in the top 5 languages.
+Total: **4,410** lines of code across **40** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,228 | 283 | 578 | 36 |
+| Go | 4,391 | 303 | 604 | 36 |
 | Sh | 7 | 1 | 1 | 1 |
 | Nix | 6 | 0 | 1 | 1 |
 | Dockerfile | 3 | 0 | 0 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.19.12` (2026-02-27)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-17
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 2,553 · **Forks**: 103 · **Open issues**: 112 · **Contributors**: 24
+- **Stars**: 2,559 · **Forks**: 103 · **Open issues**: 112 · **Contributors**: 25
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 51 · **Open PRs**: 6 · **Closed issues**: 98 · **Open issues**: 14 · **Commits**: 581
+- **Releases**: 58 · **Merged PRs**: 52 · **Open PRs**: 5 · **Closed issues**: 98 · **Open issues**: 14 · **Commits**: 583
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 16 | 2 | 0 | 0 | 23 |
-| last60d | 2026-09-17 | 0 | 16 | 3 | 0 | 0 | 23 |
-| 90d | 2026-08-18 | 0 | 16 | 4 | 0 | 0 | 23 |
-| last180d | 2026-05-20 | 0 | 16 | 5 | 2 | 1 | 23 |
-| 360d | 2025-11-21 | 1 | 24 | 6 | 14 | 2 | 36 |
-| last720d | 2024-11-26 | 5 | 36 | 6 | 23 | 5 | 111 |
+| 30d | 2026-10-20 | 0 | 16 | 2 | 0 | 0 | 24 |
+| last60d | 2026-09-20 | 0 | 16 | 3 | 0 | 0 | 24 |
+| 90d | 2026-08-21 | 0 | 16 | 4 | 0 | 0 | 24 |
+| last180d | 2026-05-23 | 0 | 17 | 4 | 1 | 1 | 25 |
+| 360d | 2025-11-24 | 1 | 25 | 5 | 13 | 2 | 38 |
+| last720d | 2024-11-29 | 5 | 37 | 5 | 23 | 5 | 113 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for q lives in the [x-cmd/install](https://github.com/x-cmd/ins
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:52:51Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:58:51Z._
